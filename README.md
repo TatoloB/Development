@@ -1,2 +1,2 @@
 # Development
-All the my project repostory
+All the files of my projects repository
